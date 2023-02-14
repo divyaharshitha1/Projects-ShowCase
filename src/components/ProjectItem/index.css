@@ -1,0 +1,21 @@
+.list-item {
+  list-style: none;
+  background-color: #ffff;
+  width: 268px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px #f1f5f9;
+  margin: 15px;
+}
+
+.image {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.project-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  padding-left: 30px;
+}

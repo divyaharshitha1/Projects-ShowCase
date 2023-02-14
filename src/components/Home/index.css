@@ -1,0 +1,50 @@
+.responsive-container {
+  padding-left: 50px;
+}
+.projects-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.failure-image {
+  height: 250px;
+  width: 300px;
+}
+.failure-head {
+  font-weight: 700;
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #1e293b;
+}
+.failure {
+  color: #465576;
+  font-weight: 500;
+  font-family: 'Roboto';
+  font-size: 17px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.button {
+  background-color: #1e293b;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
